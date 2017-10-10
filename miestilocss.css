@@ -3,7 +3,7 @@ body {
 }
 
 body {
-    color: white background-color: blue;
+    color: white
 }
 
 h1 {
@@ -70,5 +70,3 @@ div class="gallery" {
     display: inline-block;
     width: 55px;
 }
-
-p class="parrafo3" {}
